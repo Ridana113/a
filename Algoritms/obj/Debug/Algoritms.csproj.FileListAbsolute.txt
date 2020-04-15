@@ -1,0 +1,11 @@
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.Form1.resources
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.Properties.Resources.resources
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.csproj.GenerateResource.cache
+C:\Users\Darina\source\repos\Algoritms\Algoritms\bin\Debug\Algoritms.exe.config
+C:\Users\Darina\source\repos\Algoritms\Algoritms\bin\Debug\Algoritms.exe
+C:\Users\Darina\source\repos\Algoritms\Algoritms\bin\Debug\Algoritms.pdb
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.exe
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.pdb
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.csprojAssemblyReference.cache
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.Form2.resources
+C:\Users\Darina\source\repos\Algoritms\Algoritms\obj\Debug\Algoritms.Form3.resources
